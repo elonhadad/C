@@ -1,0 +1,61 @@
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
+10 chapters
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
+Chapter-01: moby-CHAPTER-I.txt
+Chapter-02: moby-CHAPTER-II.txt
+Chapter-03: moby-CHAPTER-III.txt
+Chapter-04: moby-CHAPTER-IV.txt
+Chapter-05: moby-CHAPTER-V.txt
+Chapter-06: moby-CHAPTER-VI.txt
+Chapter-07: moby-CHAPTER-VII.txt
+Chapter-08: moby-CHAPTER-VIII.txt
+Chapter-09: moby-CHAPTER-IX.txt
+Chapter-10: moby-CHAPTER-X.txt
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
+Chapter-01: LOOMINGS 
+Chapter-02: THE CARPET-BAG 
+Chapter-03: THE SPOTTTER-INN 
+Chapter-04: THE COUNTERPANE 
+Chapter-05: BREAKFAST 
+Chapter-06: THE STREET 
+Chapter-07: THE CHAPEL 
+Chapter-08: THE PULPIT 
+Chapter-09: THE SERMON 
+Chapter-10: A BOSOM FRIEND 
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
+Chapter-09: 461 lines, 3841 words
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
+Chapter-01: 284 lines, 2300 words
+Chapter-02: 189 lines, 1505 words
+Chapter-03: 777 lines, 6153 words
+Chapter-04: 203 lines, 1717 words
+Chapter-05: 104 lines, 764 words
+Chapter-06: 117 lines, 856 words
+Chapter-07: 192 lines, 973 words
+Chapter-08: 120 lines, 975 words
+Chapter-09: 461 lines, 3841 words
+Chapter-10: 207 lines, 1638 words
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
+Chapter-01: 3
+Chapter-02: 1
+Chapter-03: 7
+Chapter-06: 2
+Chapter-07: 2
+Chapter-08: 1
+Chapter-09: 9
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
+Chapter-02: 1
+Chapter-03: 1
+Chapter-05: 1
+Chapter-06: 1
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
+Chapter-01: 3
+Chapter-02: 2
+Chapter-03: 8
+Chapter-05: 1
+Chapter-06: 3
+Chapter-07: 2
+Chapter-08: 1
+Chapter-09: 9
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit

@@ -1,0 +1,1 @@
+A hex dump is a hexadecimal view of computer data, from memory or from a computer file. 

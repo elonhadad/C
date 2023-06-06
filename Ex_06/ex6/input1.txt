@@ -1,0 +1,10 @@
+number
+files
+names
+stats Chapter-09
+stats unknown
+stats
+search whale
+search whales
+search whale|whales
+quit

@@ -1,0 +1,18 @@
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
+1 chapters
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
+Chapter-02: moby-CHAPTER-II.txt
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
+Chapter-02: THE CARPET-BAG 
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
+Chapter-02: 189 lines, 1505 words
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
+Chapter-02: 189 lines, 1505 words
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
+Chapter-02: 1
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
+Chapter-02: 1
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
+Chapter-02: 2
+Enter: number / files / names / stats <chapter-name> / search <word>/ quit
