@@ -1,6 +1,4 @@
 #!/bin/bash
-#Student1: Rotem Elimelech, ID: 313284606
-#Student2: Elon Hadad, ID: 034672139
 
 
 if [[ ! -f $1 ]] ; then
