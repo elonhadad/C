@@ -1,0 +1,3 @@
+/Users/elonhadad/Library/Mobile Documents/com~apple~CloudDocs/מכללת תל חי - מדמ״ח/שנה א׳/סמסטר ב׳/מבוא לתכנות מערכות/Exercise/Ex_02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/elonhadad/Library/Mobile Documents/com~apple~CloudDocs/מכללת תל חי - מדמ״ח/שנה א׳/סמסטר ב׳/מבוא לתכנות מערכות/Exercise/Ex_02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/elonhadad/Library/Mobile Documents/com~apple~CloudDocs/מכללת תל חי - מדמ״ח/שנה א׳/סמסטר ב׳/מבוא לתכנות מערכות/Exercise/Ex_02/cmake-build-debug/CMakeFiles/Ex_02.dir
