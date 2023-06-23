@@ -1,5 +1,3 @@
-/* Student1: Rotem Elimelech, ID: 313284606
- * Student2: Elon Hadad, ID: 034672139 */
 
 #include <stdio.h>
 #include <stdlib.h>
