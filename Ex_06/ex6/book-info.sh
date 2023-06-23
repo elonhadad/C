@@ -1,10 +1,5 @@
 #!/bin/bash
 
-#  book-info.sh
-#
-#  Student 1: Elon Hadad, ID: 034672139
-#  Student 2: Rotem Elimelech, ID: 313284606
-#
 
 if [ ! -f $1 ]
 then
